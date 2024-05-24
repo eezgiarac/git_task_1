@@ -6,5 +6,9 @@ public class ezgi {
 
         //ilk sfjsljfsljfs
         //clkhfslfömnvxv
+
+        //ıslkflsjk
+
+        //hlsfhsfsh
     }
 }
